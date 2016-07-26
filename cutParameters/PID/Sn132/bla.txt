@@ -1,0 +1,11 @@
+Here are for Sn-132 the parameters for the different runs for Z and A/Q values.
+
+They are saved for the variable appearing in the name of the file.
+The files conists of three rows:
+
+ run-number, mean-value of the peak and the spread (1sigma)
+
+Note run 0024 is still missing, also it appears!
+
+Zero is before the target, everything else behind. The best values (smallest spread)
+are ZET[3] and AOQ[2] also the other values will help to decrease the background.

@@ -1,0 +1,8 @@
+3.0	//incoming ellipsoid cut on AOQ
+3.0	//incoming ellipsoid cut on ZET
+3	//outgoing ellipsoid cut on AOQ
+3.	//outgoing ellipsoid cut on ZET
+0.8	//cut on delta[2]-delta[4] in absolute numbers    ~0.16-0.17 corresponds to one sigma also the to minima are at +-1
+2.	//cut t for DALI
+3000.	//cut t for LaBr
+-1	//cut on trigger -1 all -9999 not known, 1 beam, 4DALI or, 3 DALI sum, 2 LaBr -5 gammatrigger//not sure about the order -6 DALI-trigger
